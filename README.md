@@ -60,6 +60,16 @@ benefícios da confiabilidade e da presivibilidade na nuvem
 Beneficios da segurança e governança na nuvem 
 beneficio da capacidade de gerenciamento na nuvem
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Tabela SLA 
+SLA                Tempo de indatividade por semana          Tempo de inatividade por mes                 Tempo de indatividade por ano 
+99%                  1,68 hora                                 7,2 horas                                      3,65 dias
+99,9%                10,1 Minutos                              43,2 Minutos                                   8,76 horas
+99,95%               5 minutos                                 21,6 minutos                                   4,38 horas
+99,99%               1,01 Minuto                               4,32 minutos                                   52,56 minutos
+99,999%              6 segundos                                25,9 Segundos                                  5,26 minutos
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
