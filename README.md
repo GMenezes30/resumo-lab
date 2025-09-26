@@ -71,5 +71,20 @@ SLA                Tempo de indatividade por semana          Tempo de inatividad
 99,999%              6 segundos                                25,9 Segundos                                  5,26 minutos
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tipos de serviços em nuvem
+IaaS - Infraestrurura como Serviço - Servidores e armazenamento , Firewall Segurança de rede , Planta fisica, datacenter - Mais parte configurada pelo usuraio 
+PaaS - Plataforma Como Serviço - sistemas operacionais e ferramentas , aplicação, - ambiente para criação o teste e a implantação de aplicativos, sem focar no gerenciamento da infraestrutura sujacente 
+SaaS - Software como Serviço - Aplicativos e apps hospedados ( Office 365, teams ETC...),
+
+Modelo de responsabilidade compartilhada
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Criação de um banco de dados 
+definir nome 
+Servidor  
+localização 
+tipo de autenticação 
+redundancia 
+criar e revisão recurso 
 
  
